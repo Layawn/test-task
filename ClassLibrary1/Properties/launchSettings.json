@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\aokur\\source\\repos\\ConsoleApp1\\ConsoleApp1"
+    },
+    "Профиль 1": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\aokur\\source\\repos\\ConsoleApp1\\ConsoleApp1"
+    }
+  }
+}
