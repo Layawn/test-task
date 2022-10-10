@@ -10,7 +10,7 @@
 + Checking whether a triangle is right-angled occurs through the Pythagorean theorem.
 
 ## The second part of the text-task is SQL-query to select all Product Name - Category Name pairs.
-sql-query/sql query.txt contains:
+sql query/sql query.txt contains:
 + database creation
 + data insertion
 + data fetch request
